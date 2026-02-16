@@ -1,17 +1,36 @@
-## 📊 HR Analytics Dashboard (Tableau)
+# 👥 HR Analytics Dashboard (Tableau)
 
-This project is a practice HR analytics dashboard created using Tableau as part of a data analytics training program.
 
-### Objective
-The goal of this dashboard is to analyze key HR metrics and provide insights into workforce structure and trends.
+## 📌 Project Overview
+This project presents an HR analytics dashboard built with Tableau to analyze workforce data and support HR-related decision-making.
 
-### Key Focus Areas
-- Employee distribution
-- Headcount overview
-- Basic HR KPIs
+The dashboard focuses on understanding employee distribution, demographics, and key HR metrics, and was developed as a practical analytics exercise during training.
 
-### Tool
+---
+
+## 📊 Key Insights & Analysis
+- Employee distribution by department and role
+- Workforce demographics (age groups, gender, tenure)
+- Headcount overview and HR-related indicators
+- Patterns and trends supporting HR planning and analysis
+
+---
+
+## 🛠 Tools & Technologies
 - Tableau
+- Data Visualization
+- Exploratory Data Analysis (EDA)
+- HR Analytics
 
-📌 Note: This dashboard was created as a training project to practice data visualization and analytical thinking.
+---
+
+## 📁 Data Source
+Sample HR dataset used for educational and training purposes.
+
+---
+
+## 📷 Dashboard Overview
+
+### 
 ![HR Analytics Dashboard](Images/HR_Dashboard_Overview.png)
+
