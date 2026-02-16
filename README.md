@@ -14,3 +14,4 @@ The goal of this dashboard is to analyze key HR metrics and provide insights int
 - Tableau
 
 📌 Note: This dashboard was created as a training project to practice data visualization and analytical thinking.
+![HR Analytics Dashboard](Images/HR_Dashboard_Overview.png)
